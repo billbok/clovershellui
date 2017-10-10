@@ -2,7 +2,7 @@
   "name": "clovershellui",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "billbok <nicolas.boq@gmail.com>",
+  "author": "billbok <billbok29@hotmail.fr>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
